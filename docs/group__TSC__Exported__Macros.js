@@ -1,0 +1,28 @@
+var group__TSC__Exported__Macros =
+[
+    [ "__HAL_TSC_CLEAR_FLAG", "group__TSC__Exported__Macros.html#ga1554590c37ffedfa0ee2533812ab9e93", null ],
+    [ "__HAL_TSC_CLOSE_ANALOG_SWITCH", "group__TSC__Exported__Macros.html#ga2443b5de99168a36aee81a4c1c0a99ba", null ],
+    [ "__HAL_TSC_DISABLE", "group__TSC__Exported__Macros.html#ga1bccdb8fad2dfea8b0376bd7e655e8ba", null ],
+    [ "__HAL_TSC_DISABLE_CHANNEL", "group__TSC__Exported__Macros.html#ga189b3f25060c6f1735de9df5aa8a1443", null ],
+    [ "__HAL_TSC_DISABLE_GROUP", "group__TSC__Exported__Macros.html#ga80d567272205ce145e7647109eb1778d", null ],
+    [ "__HAL_TSC_DISABLE_HYSTERESIS", "group__TSC__Exported__Macros.html#gad446d6ea9a3dcefce04b1e4e331dae25", null ],
+    [ "__HAL_TSC_DISABLE_IT", "group__TSC__Exported__Macros.html#ga3a0c164110f4715271366a77b5ebbd13", null ],
+    [ "__HAL_TSC_DISABLE_SAMPLING", "group__TSC__Exported__Macros.html#ga8ea93dc4ccda93344086032aaab17edb", null ],
+    [ "__HAL_TSC_ENABLE", "group__TSC__Exported__Macros.html#gab6db7dbcef309fbfbf505846275b68ed", null ],
+    [ "__HAL_TSC_ENABLE_CHANNEL", "group__TSC__Exported__Macros.html#ga0b158886d89bfd717b1b68f7bde7b317", null ],
+    [ "__HAL_TSC_ENABLE_GROUP", "group__TSC__Exported__Macros.html#gae75de06d73c832e4e54a1dfd48ea6e73", null ],
+    [ "__HAL_TSC_ENABLE_HYSTERESIS", "group__TSC__Exported__Macros.html#gaaa7bf6aeb81f3f346ab3cc06b3083b82", null ],
+    [ "__HAL_TSC_ENABLE_IT", "group__TSC__Exported__Macros.html#gaffc1625fe3f2d51802968ffc5769db64", null ],
+    [ "__HAL_TSC_ENABLE_SAMPLING", "group__TSC__Exported__Macros.html#gab71b596c387e283d78ef2151399f6d68", null ],
+    [ "__HAL_TSC_GET_FLAG", "group__TSC__Exported__Macros.html#gaafe41bde3f74c88cd9b7a3dc92ab0f30", null ],
+    [ "__HAL_TSC_GET_GROUP_STATUS", "group__TSC__Exported__Macros.html#ga39e1bc56626b28353192cfbbdfbfcdcb", null ],
+    [ "__HAL_TSC_GET_IT_SOURCE", "group__TSC__Exported__Macros.html#ga1a9f6b080b078ddd471817e4750e2a01", null ],
+    [ "__HAL_TSC_OPEN_ANALOG_SWITCH", "group__TSC__Exported__Macros.html#ga05786b5d7952d20ff2b74332f0923436", null ],
+    [ "__HAL_TSC_RESET_HANDLE_STATE", "group__TSC__Exported__Macros.html#gae3119b6ada7229f8d8bc0b736c771386", null ],
+    [ "__HAL_TSC_SET_IODEF_INFLOAT", "group__TSC__Exported__Macros.html#ga2e1673f1d55b11a8dee0908aa39e2c90", null ],
+    [ "__HAL_TSC_SET_IODEF_OUTPPLOW", "group__TSC__Exported__Macros.html#gabd3943c2dcbed967f428860d0a7316d3", null ],
+    [ "__HAL_TSC_SET_SYNC_POL_FALL", "group__TSC__Exported__Macros.html#ga4ac4ad45b2079249953033fa75e69ce3", null ],
+    [ "__HAL_TSC_SET_SYNC_POL_RISE_HIGH", "group__TSC__Exported__Macros.html#gaefa062d5719f0a392db945c265d257b9", null ],
+    [ "__HAL_TSC_START_ACQ", "group__TSC__Exported__Macros.html#gaafcdd090d255d14413dd0b856e34bbfe", null ],
+    [ "__HAL_TSC_STOP_ACQ", "group__TSC__Exported__Macros.html#gac9be8799b1c3ac06282282504021144e", null ]
+];
